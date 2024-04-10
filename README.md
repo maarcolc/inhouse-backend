@@ -2,8 +2,8 @@
 
 ### Pasos para correr backend:
 
-- En el directorio de backend correr npm install
-- Correr npm run dev
+- En el directorio de backend correr ``npm install``
+- Correr ``node index.js``
 - El servidor será abierto en http://localhost:3000/
 
 Para ver usuarios: http://localhost:3000/users
