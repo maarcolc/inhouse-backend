@@ -1,0 +1,22 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "email": "juan.perez@example.com",
+      "edad": 30
+    },
+    {
+      "id": 2,
+      "nombre": "Ana López",
+      "email": "ana.lopez@example.com",
+      "edad": 25
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos García",
+      "email": "carlos.garcia@example.com",
+      "edad": 32
+    }
+  ]
+}
